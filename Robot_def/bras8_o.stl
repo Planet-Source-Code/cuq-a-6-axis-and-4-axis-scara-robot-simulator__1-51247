@@ -1,0 +1,58 @@
+solid c:\devel\robot_simulation\bras8_o.stl
+  facet normal  0.000  0.000 -900.000
+    outer loop
+      vertex 15.000 14.999 -0.000
+      vertex -15.000 44.999 -0.000
+      vertex 15.000 44.999 -0.000
+    endloop
+  endfacet
+  facet normal  0.000  0.000 -900.000
+    outer loop
+      vertex -15.000 14.999 -0.000
+      vertex -15.000 44.999 -0.000
+      vertex 15.000 14.999 -0.000
+    endloop
+  endfacet
+  facet normal  0.000 -2160.000 900.000
+    outer loop
+      vertex -15.000 14.999 -72.000
+      vertex 15.000 44.999 -0.000
+      vertex -15.000 44.999 -0.000
+    endloop
+  endfacet
+  facet normal -2160.000  0.000  0.000
+    outer loop
+      vertex 15.000 14.999 -0.000
+      vertex 15.000 44.999 -0.000
+      vertex 15.000 14.999 -72.000
+    endloop
+  endfacet
+  facet normal 2160.000  0.000  0.000
+    outer loop
+      vertex -15.000 44.999 -0.000
+      vertex -15.000 14.999 -0.000
+      vertex -15.000 14.999 -72.000
+    endloop
+  endfacet
+  facet normal  0.000 2160.000  0.000
+    outer loop
+      vertex 15.000 14.999 -0.000
+      vertex -15.000 14.999 -72.000
+      vertex -15.000 14.999 -0.000
+    endloop
+  endfacet
+  facet normal  0.000 -2160.000 900.000
+    outer loop
+      vertex -15.000 14.999 -72.000
+      vertex 15.000 14.999 -72.000
+      vertex 15.000 44.999 -0.000
+    endloop
+  endfacet
+  facet normal  0.000 2160.000  0.000
+    outer loop
+      vertex 15.000 14.999 -72.000
+      vertex -15.000 14.999 -72.000
+      vertex 15.000 14.999 -0.000
+    endloop
+  endfacet
+endsolid c:\devel\robot_simulation\bras8_o.stl
