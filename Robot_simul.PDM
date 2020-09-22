@@ -1,0 +1,207 @@
+[Root]
+Most Recent Package=Logiciel d'installation Robot Simulation
+
+
+[Package|Logiciel d'installation Robot Simulation|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=C:\devel\Robot_simulation\Package
+
+[Package|Logiciel d'installation Robot Simulation|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Logiciel d'installation Robot Simulation|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Logiciel d'installation Robot Simulation|Files Found]
+bras0_o.stl=C:\devel\Robot_simulation\Robot_def\bras0_o.stl
+glut-3.7.6-bin.zip=C:\devel\Robot_simulation\Info_Robot_3D\glut-3.7.6-bin.zip
+bras1_o.stl=C:\devel\Robot_simulation\Robot_def\bras1_o.stl
+bras2_o.stl=C:\devel\Robot_simulation\Robot_def\bras2_o.stl
+
+[Package|Logiciel d'installation Robot Simulation|Files Released]
+
+[Package|Logiciel d'installation Robot Simulation|Missing Dependency Information]
+C:\devel\Robot_simulation\vbogl.tlb=
+C:\WINNT\MSCOMCTL.OCX=
+C:\WINDOWS\system32\vbogl.tlb=
+
+[Package|Logiciel d'installation Robot Simulation|Out-of-Date Dependency Information]
+
+[Package|Logiciel d'installation Robot Simulation|Files Added]
+bras0_o.stl=
+bras1_o.stl=
+bras2_o.stl=
+bras3_o.stl=
+bras4_o.stl=
+bras5_o.stl=
+bras6_o.stl=
+bras7_o.stl=
+bras8_o.stl=
+glut-3.7.6-bin.zip=
+c:\devel\robot_simulation\robot_def\adeptsix600.dat=
+c:\devel\robot_simulation\robot_def\adeptcobra800.dat=
+c:\devel\robot_simulation\robot_def\cobra0_o.stl=
+c:\devel\robot_simulation\robot_def\cobra1_o.stl=
+c:\devel\robot_simulation\robot_def\cobra2_o.stl=
+c:\devel\robot_simulation\robot_def\cobra3_o.stl=
+c:\devel\robot_simulation\robot_def\cobra4_o.stl=
+c:\devel\robot_simulation\robot_simul.ini=
+
+[Package|Logiciel d'installation Robot Simulation|Files Removed]
+c:\devel\robot_simulation\glut\glut-3.7.6-bin.zip=
+
+[Package|Logiciel d'installation Robot Simulation|Files In Project]
+C:\devel\Robot_simulation\Robot_simul.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6FR.DLL=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCFR.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+C:\devel\Robot_simulation\Robot_def\bras0_o.stl=Yes
+C:\devel\Robot_simulation\Robot_def\bras1_o.stl=Yes
+C:\devel\Robot_simulation\Robot_def\bras2_o.stl=Yes
+C:\devel\Robot_simulation\Robot_def\bras3_o.stl=Yes
+C:\devel\Robot_simulation\Robot_def\bras4_o.stl=Yes
+C:\devel\Robot_simulation\Robot_def\bras5_o.stl=Yes
+C:\devel\Robot_simulation\Robot_def\bras6_o.stl=Yes
+C:\devel\Robot_simulation\Robot_def\bras7_o.stl=Yes
+C:\devel\Robot_simulation\Robot_def\bras8_o.stl=Yes
+C:\devel\Robot_simulation\Info_Robot_3D\glut-3.7.6-bin.zip=Yes
+C:\devel\Robot_simulation\Robot_def\AdeptSix600.dat=Yes
+C:\devel\Robot_simulation\Robot_def\AdeptCobra800.dat=Yes
+C:\devel\Robot_simulation\Robot_def\cobra0_o.stl=Yes
+C:\devel\Robot_simulation\Robot_def\cobra1_o.stl=Yes
+C:\devel\Robot_simulation\Robot_def\cobra2_o.stl=Yes
+C:\devel\Robot_simulation\Robot_def\cobra3_o.stl=Yes
+C:\devel\Robot_simulation\Robot_def\cobra4_o.stl=Yes
+C:\devel\Robot_simulation\Robot_simul.ini=Yes
+C:\WINDOWS\system32\vbogl.tlb=Yes
+
+[Package|Logiciel d'installation Robot Simulation|Configure Registry Files]
+Applicable=No
+
+[Package|Logiciel d'installation Robot Simulation|Configure Remote Servers]
+Applicable=No
+
+[Package|Logiciel d'installation Robot Simulation|Install Locations]
+C:\devel\Robot_simulation\Robot_simul.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6FR.DLL=$(WinSysPath)
+C:\devel\Robot_simulation\vbogl.tlb=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCFR.DLL=$(WinSysPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Programme\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\devel\Robot_simulation\bras0_o.stl=$(AppPath)
+C:\devel\Robot_simulation\bras1_o.stl=$(AppPath)
+C:\devel\Robot_simulation\bras2_o.stl=$(AppPath)
+C:\devel\Robot_simulation\bras3_o.stl=$(AppPath)
+C:\devel\Robot_simulation\bras4_o.stl=$(AppPath)
+C:\devel\Robot_simulation\bras5_o.stl=$(AppPath)
+C:\devel\Robot_simulation\bras6_o.stl=$(AppPath)
+C:\devel\Robot_simulation\bras7_o.stl=$(AppPath)
+C:\devel\Robot_simulation\bras8_o.stl=$(AppPath)
+C:\WINNT\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEAUT32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\OLEPRO32.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\ASYCFILT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\STDOLE2.TLB=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINNT\system32\VB6FR.DLL=$(WinSysPath)
+C:\WINNT\MSCOMCTL.OCX=$(WinSysPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINNT\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Program Files\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+C:\devel\Robot_simulation\Robot_def\bras0_o.stl=$(AppPath)\Robot_def
+C:\devel\Robot_simulation\Robot_def\bras1_o.stl=$(AppPath)\Robot_def
+C:\devel\Robot_simulation\Robot_def\bras2_o.stl=$(AppPath)\Robot_def
+C:\devel\Robot_simulation\Robot_def\bras3_o.stl=$(AppPath)\Robot_def
+C:\devel\Robot_simulation\Robot_def\bras4_o.stl=$(AppPath)\Robot_def
+C:\devel\Robot_simulation\Robot_def\bras5_o.stl=$(AppPath)\Robot_def
+C:\devel\Robot_simulation\Robot_def\bras6_o.stl=$(AppPath)\Robot_def
+C:\devel\Robot_simulation\Robot_def\bras7_o.stl=$(AppPath)\Robot_def
+C:\devel\Robot_simulation\Robot_def\bras8_o.stl=$(AppPath)\Robot_def
+C:\devel\Robot_simulation\Info_Robot_3D\glut-3.7.6-bin.zip=$(AppPath)
+C:\devel\Robot_simulation\Robot_def\AdeptSix600.dat=$(AppPath)\Robot_def
+C:\devel\Robot_simulation\Robot_def\AdeptCobra800.dat=$(AppPath)\Robot_def
+C:\devel\Robot_simulation\Robot_def\cobra0_o.stl=$(AppPath)\Robot_def
+C:\devel\Robot_simulation\Robot_def\cobra1_o.stl=$(AppPath)\Robot_def
+C:\devel\Robot_simulation\Robot_def\cobra2_o.stl=$(AppPath)\Robot_def
+C:\devel\Robot_simulation\Robot_def\cobra3_o.stl=$(AppPath)\Robot_def
+C:\devel\Robot_simulation\Robot_def\cobra4_o.stl=$(AppPath)\Robot_def
+C:\devel\Robot_simulation\Robot_simul.ini=$(AppPath)
+C:\WINDOWS\system32\vbogl.tlb=$(WinSysPath)
+
+[Package|Logiciel d'installation Robot Simulation|Configure Shared Files]
+Applicable=Yes
+C:\devel\Robot_simulation\Robot_simul.exe=No
+C:\devel\Robot_simulation\bras0_o.stl=No
+C:\devel\Robot_simulation\bras1_o.stl=No
+C:\devel\Robot_simulation\bras2_o.stl=No
+C:\devel\Robot_simulation\bras3_o.stl=No
+C:\devel\Robot_simulation\bras4_o.stl=No
+C:\devel\Robot_simulation\bras5_o.stl=No
+C:\devel\Robot_simulation\bras6_o.stl=No
+C:\devel\Robot_simulation\bras7_o.stl=No
+C:\devel\Robot_simulation\bras8_o.stl=No
+C:\devel\Robot_simulation\Robot_def\bras0_o.stl=No
+C:\devel\Robot_simulation\Robot_def\bras1_o.stl=No
+C:\devel\Robot_simulation\Robot_def\bras2_o.stl=No
+C:\devel\Robot_simulation\Robot_def\bras3_o.stl=No
+C:\devel\Robot_simulation\Robot_def\bras4_o.stl=No
+C:\devel\Robot_simulation\Robot_def\bras5_o.stl=No
+C:\devel\Robot_simulation\Robot_def\bras6_o.stl=No
+C:\devel\Robot_simulation\Robot_def\bras7_o.stl=No
+C:\devel\Robot_simulation\Robot_def\bras8_o.stl=No
+C:\devel\Robot_simulation\Info_Robot_3D\glut-3.7.6-bin.zip=No
+C:\devel\Robot_simulation\Robot_def\AdeptSix600.dat=No
+C:\devel\Robot_simulation\Robot_def\AdeptCobra800.dat=No
+C:\devel\Robot_simulation\Robot_def\cobra0_o.stl=No
+C:\devel\Robot_simulation\Robot_def\cobra1_o.stl=No
+C:\devel\Robot_simulation\Robot_def\cobra2_o.stl=No
+C:\devel\Robot_simulation\Robot_def\cobra3_o.stl=No
+C:\devel\Robot_simulation\Robot_def\cobra4_o.stl=No
+C:\devel\Robot_simulation\Robot_simul.ini=No
+
+[Package|Logiciel d'installation Robot Simulation|Distribution]
+Type=single
+Size=
+Title=Robot_simul
+
+[Package|Logiciel d'installation Robot Simulation|Package]
+PackageFolder=C:\devel\Robot_simulation\Package
+ProjectFolder=C:\devel\Robot_simulation
+ServerSideCab=
+File1=C:\devel\Robot_simulation\Package\setup.exe
+File2=C:\devel\Robot_simulation\Package\Setup.Lst
+File3=C:\devel\Robot_simulation\Package\Robot_simul.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+[Package|Logiciel d'installation Robot Simulation|IconGroups]
+Group0=Robot_simul
+PrivateGroup0=Faux
+Parent0=$(Programs)
+
+[Package|Logiciel d'installation Robot Simulation|Robot_simul]
+Icon1=Robot_simul.exe
+Title1=Robot_simul
+StartIn1=$(AppPath)
+Key1=Icon1
